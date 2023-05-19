@@ -43,7 +43,6 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_alignParentEnd="true"
-                android:layout_alignParentRight="true"
                 android:text="Eliminar"
                 android:textColor="@color/white" />
             <Button
@@ -51,7 +50,6 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_alignParentEnd="true"
-                android:layout_alignParentRight="true"
                 android:layout_below="@id/buttonAdopt"
                 android:text="Detalles"
                 android:textColor="@color/white" />

@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'es.uca.gadesports'
+    namespace 'es.uca.pnetsegundaclase'
     compileSdk 33
 
     defaultConfig {
-        applicationId "es.uca.gadesports"
+        applicationId "es.uca.pnetsegundaclase"
         minSdk 33
         targetSdk 33
         versionCode 1
